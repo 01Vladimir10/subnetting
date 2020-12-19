@@ -1,0 +1,13 @@
+C:\Projects\Windows\subnetting\obj\Debug\netcoreapp3.1\subnetting.csprojAssemblyReference.cache
+C:\Projects\Windows\subnetting\obj\Debug\netcoreapp3.1\subnetting.AssemblyInfoInputs.cache
+C:\Projects\Windows\subnetting\obj\Debug\netcoreapp3.1\subnetting.AssemblyInfo.cs
+C:\Projects\Windows\subnetting\obj\Debug\netcoreapp3.1\subnetting.csproj.CoreCompileInputs.cache
+C:\Projects\Windows\subnetting\bin\Debug\netcoreapp3.1\subnetting.exe
+C:\Projects\Windows\subnetting\bin\Debug\netcoreapp3.1\subnetting.deps.json
+C:\Projects\Windows\subnetting\bin\Debug\netcoreapp3.1\subnetting.runtimeconfig.json
+C:\Projects\Windows\subnetting\bin\Debug\netcoreapp3.1\subnetting.runtimeconfig.dev.json
+C:\Projects\Windows\subnetting\bin\Debug\netcoreapp3.1\subnetting.dll
+C:\Projects\Windows\subnetting\bin\Debug\netcoreapp3.1\subnetting.pdb
+C:\Projects\Windows\subnetting\obj\Debug\netcoreapp3.1\subnetting.dll
+C:\Projects\Windows\subnetting\obj\Debug\netcoreapp3.1\subnetting.pdb
+C:\Projects\Windows\subnetting\obj\Debug\netcoreapp3.1\subnetting.genruntimeconfig.cache
